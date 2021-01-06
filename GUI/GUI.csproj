@@ -1,0 +1,276 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8C945182-9DF0-4D56-9CE0-08BEAEB4C85A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>GUI</RootNamespace>
+    <AssemblyName>GUI</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EPPlus, Version=4.5.3.2, Culture=neutral, PublicKeyToken=ea159fdaa78159a1, processorArchitecture=MSIL">
+      <HintPath>..\packages\EPPlus.4.5.3.2\lib\net40\EPPlus.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1400.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1400.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1400.0\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admin\frAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\frAdmin.Designer.cs">
+      <DependentUpon>frAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GiaoVien\frBangDiem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GiaoVien\frBangDiem.Designer.cs">
+      <DependentUpon>frBangDiem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GiaoVien\frCauHoiDongGop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GiaoVien\frCauHoiDongGop.Designer.cs">
+      <DependentUpon>frCauHoiDongGop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GiaoVien\frEPCauHoi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GiaoVien\frEPCauHoi.Designer.cs">
+      <DependentUpon>frEPCauHoi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GiaoVien\frSuaCauHoi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GiaoVien\frSuaCauHoi.Designer.cs">
+      <DependentUpon>frSuaCauHoi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GiaoVien\frThemCauHoi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GiaoVien\frThemCauHoi.Designer.cs">
+      <DependentUpon>frThemCauHoi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GiaoVien\frThemDsCauHoi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GiaoVien\frThemDsCauHoi.Designer.cs">
+      <DependentUpon>frThemDsCauHoi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HocSinh\frInBangDiem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HocSinh\frInBangDiem.Designer.cs">
+      <DependentUpon>frInBangDiem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="main\frLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="main\frLogin.Designer.cs">
+      <DependentUpon>frLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="main\frRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="main\frRegister.Designer.cs">
+      <DependentUpon>frRegister.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GiaoVien\frRegisterGiaoVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GiaoVien\frRegisterGiaoVien.Designer.cs">
+      <DependentUpon>frRegisterGiaoVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HocSinh\frRegisterHocSinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HocSinh\frRegisterHocSinh.Designer.cs">
+      <DependentUpon>frRegisterHocSinh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GiaoVien\frGiaoVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GiaoVien\frGiaoVien.Designer.cs">
+      <DependentUpon>frGiaoVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HocSinh\frHocSinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HocSinh\frHocSinh.Designer.cs">
+      <DependentUpon>frHocSinh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <Compile Include="TracNghiem\frLamBaiTracNghiem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TracNghiem\frLamBaiTracNghiem.Designer.cs">
+      <DependentUpon>frLamBaiTracNghiem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TracNghiem\frOnThiTuLuyen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TracNghiem\frOnThiTuLuyen.Designer.cs">
+      <DependentUpon>frOnThiTuLuyen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Admin\frAdmin.resx">
+      <DependentUpon>frAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GiaoVien\frBangDiem.resx">
+      <DependentUpon>frBangDiem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GiaoVien\frCauHoiDongGop.resx">
+      <DependentUpon>frCauHoiDongGop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GiaoVien\frEPCauHoi.resx">
+      <DependentUpon>frEPCauHoi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GiaoVien\frSuaCauHoi.resx">
+      <DependentUpon>frSuaCauHoi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GiaoVien\frThemCauHoi.resx">
+      <DependentUpon>frThemCauHoi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GiaoVien\frThemDsCauHoi.resx">
+      <DependentUpon>frThemDsCauHoi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HocSinh\frInBangDiem.resx">
+      <DependentUpon>frInBangDiem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="main\frLogin.resx">
+      <DependentUpon>frLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="main\frRegister.resx">
+      <DependentUpon>frRegister.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GiaoVien\frRegisterGiaoVien.resx">
+      <DependentUpon>frRegisterGiaoVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HocSinh\frRegisterHocSinh.resx">
+      <DependentUpon>frRegisterHocSinh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GiaoVien\frGiaoVien.resx">
+      <DependentUpon>frGiaoVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HocSinh\frHocSInh.resx">
+      <DependentUpon>frHocSinh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Report\reportBangDiem.rdlc" />
+    <EmbeddedResource Include="Report\reportCauHoi.rdlc" />
+    <EmbeddedResource Include="Report\reportKetQuaHocSinh.rdlc" />
+    <EmbeddedResource Include="TracNghiem\frLamBaiTracNghiem.resx">
+      <DependentUpon>frLamBaiTracNghiem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TracNghiem\frOnThiTuLuyen.resx">
+      <DependentUpon>frOnThiTuLuyen.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\DataSources\DAO.qltnDAODataContext.datasource" />
+    <None Include="Properties\DataSources\DTO.BangDiemDTO.datasource" />
+    <None Include="Properties\DataSources\DTO.BangDiemThongKe.datasource" />
+    <None Include="Properties\DataSources\DTO.CauHoiDTO.datasource" />
+    <None Include="Properties\DataSources\DTO.HocSinhDTO.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BUS\BUS.csproj">
+      <Project>{f9eef759-b140-487f-9417-5bd3221303d2}</Project>
+      <Name>BUS</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DAO\DAO.csproj">
+      <Project>{e8769bd7-5b0f-493d-bbe3-f78e0277725f}</Project>
+      <Name>DAO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DTO\DTO.csproj">
+      <Project>{7ce0aef9-fb45-4b69-a658-afb01d84633e}</Project>
+      <Name>DTO</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
