@@ -1,0 +1,55 @@
+D:\ĐỒ ÁN CUỐI KỲ\QuanLyTracNghiem (v1)\DTO\bin\Debug\DTO.dll
+D:\ĐỒ ÁN CUỐI KỲ\QuanLyTracNghiem (v1)\DTO\bin\Debug\DTO.pdb
+D:\ĐỒ ÁN CUỐI KỲ\QuanLyTracNghiem (v1)\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+D:\ĐỒ ÁN CUỐI KỲ\QuanLyTracNghiem (v1)\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\ĐỒ ÁN CUỐI KỲ\QuanLyTracNghiem (v1)\DTO\obj\Debug\DTO.dll
+D:\ĐỒ ÁN CUỐI KỲ\QuanLyTracNghiem (v1)\DTO\obj\Debug\DTO.pdb
+C:\Users\Nguyen Nhi\Downloads\New folder\ĐỒ-ÁN-CUỐI-KỲ\QuanLyTracNghiem (v1)\DTO\bin\Debug\DTO.dll
+C:\Users\Nguyen Nhi\Downloads\New folder\ĐỒ-ÁN-CUỐI-KỲ\QuanLyTracNghiem (v1)\DTO\bin\Debug\DTO.pdb
+C:\Users\Nguyen Nhi\Downloads\New folder\ĐỒ-ÁN-CUỐI-KỲ\QuanLyTracNghiem (v1)\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\Nguyen Nhi\Downloads\New folder\ĐỒ-ÁN-CUỐI-KỲ\QuanLyTracNghiem (v1)\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Nhi\Downloads\New folder\ĐỒ-ÁN-CUỐI-KỲ\QuanLyTracNghiem (v1)\DTO\obj\Debug\DTO.dll
+C:\Users\Nguyen Nhi\Downloads\New folder\ĐỒ-ÁN-CUỐI-KỲ\QuanLyTracNghiem (v1)\DTO\obj\Debug\DTO.pdb
+D:\ĐỒ-ÁN-CUỐI-KỲ (v2)\ĐỒ-ÁN-CUỐI-KỲ\QuanLyTracNghiem (v2)\DTO\bin\Debug\DTO.dll
+D:\ĐỒ-ÁN-CUỐI-KỲ (v2)\ĐỒ-ÁN-CUỐI-KỲ\QuanLyTracNghiem (v2)\DTO\bin\Debug\DTO.pdb
+D:\ĐỒ-ÁN-CUỐI-KỲ (v2)\ĐỒ-ÁN-CUỐI-KỲ\QuanLyTracNghiem (v2)\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+D:\ĐỒ-ÁN-CUỐI-KỲ (v2)\ĐỒ-ÁN-CUỐI-KỲ\QuanLyTracNghiem (v2)\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\ĐỒ-ÁN-CUỐI-KỲ (v2)\ĐỒ-ÁN-CUỐI-KỲ\QuanLyTracNghiem (v2)\DTO\obj\Debug\DTO.dll
+D:\ĐỒ-ÁN-CUỐI-KỲ (v2)\ĐỒ-ÁN-CUỐI-KỲ\QuanLyTracNghiem (v2)\DTO\obj\Debug\DTO.pdb
+C:\Users\Kien Le\Desktop\QuanLyTracNghiem-v2\QuanLyTracNghiem (v2)\DTO\bin\Debug\DTO.dll
+C:\Users\Kien Le\Desktop\QuanLyTracNghiem-v2\QuanLyTracNghiem (v2)\DTO\bin\Debug\DTO.pdb
+C:\Users\Kien Le\Desktop\QuanLyTracNghiem-v2\QuanLyTracNghiem (v2)\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\Kien Le\Desktop\QuanLyTracNghiem-v2\QuanLyTracNghiem (v2)\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Kien Le\Desktop\QuanLyTracNghiem-v2\QuanLyTracNghiem (v2)\DTO\obj\Debug\DTO.dll
+C:\Users\Kien Le\Desktop\QuanLyTracNghiem-v2\QuanLyTracNghiem (v2)\DTO\obj\Debug\DTO.pdb
+D:\ĐỒ-ÁN-CUỐI-KỲ (v4)\QuanLyTracNghiem (v4)\DTO\bin\Debug\DTO.dll
+D:\ĐỒ-ÁN-CUỐI-KỲ (v4)\QuanLyTracNghiem (v4)\DTO\bin\Debug\DTO.pdb
+D:\ĐỒ-ÁN-CUỐI-KỲ (v4)\QuanLyTracNghiem (v4)\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+D:\ĐỒ-ÁN-CUỐI-KỲ (v4)\QuanLyTracNghiem (v4)\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\ĐỒ-ÁN-CUỐI-KỲ (v4)\QuanLyTracNghiem (v4)\DTO\obj\Debug\DTO.dll
+D:\ĐỒ-ÁN-CUỐI-KỲ (v4)\QuanLyTracNghiem (v4)\DTO\obj\Debug\DTO.pdb
+D:\ĐỒ-ÁN-CUỐI-KỲ-v4\ĐỒ-ÁN-CUỐI-KỲ (v4)\QuanLyTracNghiem (v4)\DTO\bin\Debug\DTO.dll
+D:\ĐỒ-ÁN-CUỐI-KỲ-v4\ĐỒ-ÁN-CUỐI-KỲ (v4)\QuanLyTracNghiem (v4)\DTO\bin\Debug\DTO.pdb
+D:\ĐỒ-ÁN-CUỐI-KỲ-v4\ĐỒ-ÁN-CUỐI-KỲ (v4)\QuanLyTracNghiem (v4)\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+D:\ĐỒ-ÁN-CUỐI-KỲ-v4\ĐỒ-ÁN-CUỐI-KỲ (v4)\QuanLyTracNghiem (v4)\DTO\obj\Debug\DTO.dll
+D:\ĐỒ-ÁN-CUỐI-KỲ-v4\ĐỒ-ÁN-CUỐI-KỲ (v4)\QuanLyTracNghiem (v4)\DTO\obj\Debug\DTO.pdb
+D:\ĐỒ-ÁN-CUỐI-KỲ-v4\QuanLyTracNghiem (v4)\DTO\bin\Debug\DTO.dll
+D:\ĐỒ-ÁN-CUỐI-KỲ-v4\QuanLyTracNghiem (v4)\DTO\bin\Debug\DTO.pdb
+D:\ĐỒ-ÁN-CUỐI-KỲ-v4\QuanLyTracNghiem (v4)\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+D:\ĐỒ-ÁN-CUỐI-KỲ-v4\QuanLyTracNghiem (v4)\DTO\obj\Debug\DTO.dll
+D:\ĐỒ-ÁN-CUỐI-KỲ-v4\QuanLyTracNghiem (v4)\DTO\obj\Debug\DTO.pdb
+D:\ĐỒ-ÁN-CUỐI-KỲ-v5\QuanLyTracNghiem (v5)\DTO\bin\Debug\DTO.dll
+D:\ĐỒ-ÁN-CUỐI-KỲ-v5\QuanLyTracNghiem (v5)\DTO\bin\Debug\DTO.pdb
+D:\ĐỒ-ÁN-CUỐI-KỲ-v5\QuanLyTracNghiem (v5)\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+D:\ĐỒ-ÁN-CUỐI-KỲ-v5\QuanLyTracNghiem (v5)\DTO\obj\Debug\DTO.dll
+D:\ĐỒ-ÁN-CUỐI-KỲ-v5\QuanLyTracNghiem (v5)\DTO\obj\Debug\DTO.pdb
+D:\ĐỒ-ÁN-CUỐI-KỲ-v5\QuanLyTracNghiem (v6)\DTO\bin\Debug\DTO.dll
+D:\ĐỒ-ÁN-CUỐI-KỲ-v5\QuanLyTracNghiem (v6)\DTO\bin\Debug\DTO.pdb
+D:\ĐỒ-ÁN-CUỐI-KỲ-v5\QuanLyTracNghiem (v6)\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+D:\ĐỒ-ÁN-CUỐI-KỲ-v5\QuanLyTracNghiem (v6)\DTO\obj\Debug\DTO.dll
+D:\ĐỒ-ÁN-CUỐI-KỲ-v5\QuanLyTracNghiem (v6)\DTO\obj\Debug\DTO.pdb
+C:\Users\ASUS\Downloads\DEADLINE\QuanLyTracNghiem (v7)\DTO\bin\Debug\DTO.dll
+C:\Users\ASUS\Downloads\DEADLINE\QuanLyTracNghiem (v7)\DTO\bin\Debug\DTO.pdb
+C:\Users\ASUS\Downloads\DEADLINE\QuanLyTracNghiem (v7)\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\ASUS\Downloads\DEADLINE\QuanLyTracNghiem (v7)\DTO\obj\Debug\DTO.dll
+C:\Users\ASUS\Downloads\DEADLINE\QuanLyTracNghiem (v7)\DTO\obj\Debug\DTO.pdb
