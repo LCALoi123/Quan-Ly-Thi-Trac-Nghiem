@@ -35,6 +35,7 @@ namespace BUS
 
         }
 
+        
         public void Insert_CT_DeThi(CT_DethiDTO ct)
         {
             try
