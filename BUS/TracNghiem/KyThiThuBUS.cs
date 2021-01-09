@@ -45,6 +45,8 @@ namespace BUS
             }
 
         }
+        
+        
         public void Insert_CT_HocSinh_KyThiThu(CT_HOCSINH_KyThiThu ct)
         {
             try
