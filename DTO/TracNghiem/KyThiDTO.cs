@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 
 namespace DTO
 {
-    
     public class KyThiDTO
     {
         private string maKyThi;
