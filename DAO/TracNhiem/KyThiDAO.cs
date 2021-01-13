@@ -23,6 +23,7 @@ namespace DAO
         #region method
         public void Insert_KyThi(KyThiDTO kyThi)
         {
+            
             using (qltnDAODataContext qltn = new qltnDAODataContext())
             {
                 KyThi insert = new KyThi();
