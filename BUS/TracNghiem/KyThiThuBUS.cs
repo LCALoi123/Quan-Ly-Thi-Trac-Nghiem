@@ -31,6 +31,8 @@ namespace BUS
             {
 
             }
+            
+            
 
         }
         public void Insert_CT_KyThiThu(CT_KyThiThu ct)
