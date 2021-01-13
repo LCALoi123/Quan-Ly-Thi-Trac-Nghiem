@@ -33,6 +33,7 @@ namespace BUS
 
             }
 
+            
         }
         public void Insert_CT_KyThi(CT_KyThiDTO ct)
         {
