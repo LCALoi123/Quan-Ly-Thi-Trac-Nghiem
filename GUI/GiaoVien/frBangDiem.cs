@@ -14,6 +14,7 @@ namespace GUI.GiaoVien
 {
     public partial class frBangDiem : Form
     {
+    
         public frBangDiem()
         {
             InitializeComponent();
