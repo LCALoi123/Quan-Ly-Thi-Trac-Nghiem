@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace DTO
 {
+    
     public class BangDiemThongKe
     {
         private string kyThi;
