@@ -28,6 +28,7 @@ namespace DAO
                 qltn.SubmitChanges();
             }
         }
+        
         public void Insert_CT_KyThiThu(CT_KyThiThu cT_KyThi)
         {
             using (qltnDAODataContext qltn = new qltnDAODataContext())
