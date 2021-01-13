@@ -44,6 +44,7 @@ namespace DAO
                 qltn.SubmitChanges();
             }
         }
+        
         public List<KyThiThu> Select_KyThiThu()
         {
             using (qltnDAODataContext qltn = new qltnDAODataContext())
