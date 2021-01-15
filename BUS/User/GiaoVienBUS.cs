@@ -28,8 +28,7 @@ namespace BUS
         /// </summary>
         /// <param name="giaoVienDTO">thông tin giáo viên</param>
         public void DangKyGiaoVien(GiaoVienDTO giaoVienDTO)
-        {
-            
+        {   
             try
             {
                 GiaoVienDAO.Instance.InsertGiaoVien(giaoVienDTO);
