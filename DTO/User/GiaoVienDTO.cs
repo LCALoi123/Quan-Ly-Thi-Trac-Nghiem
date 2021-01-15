@@ -15,7 +15,7 @@ namespace DTO
         private int idGV;
         private string tenGV;
         private int idus;
-
+ 
         //-----------------------------------------------------------------------------//
         public int IdGV { get => idGV; set => idGV = value; }
         public string TenGV { get => tenGV; set => tenGV = value; }
