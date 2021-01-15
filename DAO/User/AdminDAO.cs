@@ -13,6 +13,7 @@ namespace DAO
     /// </summary>
     public class AdminDAO
     {
+     
         #region singleton
         private static AdminDAO instance;
 
