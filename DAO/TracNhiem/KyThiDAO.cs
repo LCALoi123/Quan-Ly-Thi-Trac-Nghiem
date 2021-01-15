@@ -68,7 +68,6 @@ namespace DAO
         {
             using (qltnDAODataContext qltn = new qltnDAODataContext())
             {
-
                 var kt = from ct in qltn.CT_HOCSINH_KYTHIs
                          from kts in qltn.KyThis
                          where ct.MaKyThi == kts.MaKyThi && ct.IDhs == idus
