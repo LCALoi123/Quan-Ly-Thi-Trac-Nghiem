@@ -26,7 +26,6 @@ namespace GUI.GiaoVien
         }
         private void frBangDiem_Load(object sender, EventArgs e)
         {
-            
             rpvBangDiem.LocalReport.DataSources.Clear();
             var BangDiemDS = new BindingSource();
             var hsrDs = new ReportDataSource("BangDiem");
