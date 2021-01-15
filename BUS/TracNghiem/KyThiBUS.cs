@@ -24,6 +24,7 @@ namespace BUS
         #region method
         public void Insert_KyThi(KyThiDTO kyThi)
         {
+            
             try
             {
                 KyThiDAO.Instance.Insert_KyThi(kyThi);
